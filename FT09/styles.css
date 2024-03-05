@@ -1,0 +1,11 @@
+body{
+    background-color: darkgoldenrod;
+}
+h1{
+    color: darkgreen;
+}
+h2{color: blue;}
+h3{color: rgb(138, 68, 68);}
+h4{color: chartreuse;}
+h5{color: crimson;}
+h6{color: magenta;}
